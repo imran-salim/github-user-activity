@@ -1,6 +1,6 @@
 const username = process.argv[2];
 const userUrl = `https://api.github.com/users/${username}`;
-const eventsUrl = `https://api.github.com/users/${username}/events`;
+const eventsUrl = `${userUrl}/events`;
 
 fetch(userUrl)
   .then(response => {
