@@ -1,0 +1,11 @@
+{
+  "name": "github-user-activity",
+  "version": "1.0.0",
+  "description": "Read a GitHub user's events",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Imran Salim",
+  "license": "MIT"
+}
