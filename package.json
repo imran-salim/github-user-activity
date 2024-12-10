@@ -1,7 +1,7 @@
 {
   "name": "github-user-activity",
   "version": "1.0.0",
-  "description": "Read a GitHub user's events",
+  "description": "Read a GitHub user's activity",
   "main": "index.js",
   "scripts": {
     "test": "test"
